@@ -71,4 +71,4 @@ go test 命令会遍历所有的`*_test.go`文件中符合上述命名规制的�
 > func (c *T) Skipf(format string, args ...interface{})
 > 
 > func (c *T) Skipped() bool
-> 
+>
